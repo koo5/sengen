@@ -1,0 +1,4 @@
+replace wordlist.txt with your list of acceptable words
+download sentences.cvs from http://tatoeba.org/eng/downloads
+run sengen.py:)
+
